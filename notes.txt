@@ -1,0 +1,59 @@
+GIT HUB
+
+1.Ajile methodology:-
+
+
+2.GitHub Repository: 
+     GitHub repository is defined as a location in the GitHub platform where the files and codes corresponding to the projects and their respective versions as a part of revision history is stored, managed, and used. One can discuss and manage the entire project’s work inside the repository itself.
+
+3.Remote Repository:
+    Remote repositories are versions of your project that are hosted on the Internet or network somewhere. You can have several of them, each of which generally is either read-only or read/write for you.
+
+     there are two ways to push or pull remote url. they are,
+     a.HTTPS URL
+     b.SSH URL
+
+4.Local Repository: 
+     A local repository is a local directory structure that caches artifacts downloaded from remote repositories, or those that are manually installed (eg from the command line option). A remote repository is a web service (defined by a URL) that contains versioned artifacts.
+
+5.Version Control:
+     Version control systems are software that help track changes make in code over time. As a developer edits code, the version control system takes a snapshot of the files. It then saves that snapshot permanently so it can be recalled later if needed.
+
+6.Beifits of VersionControl:
+     Without version control, developers are tempted to keep multiple copies of code on their computer. This is dangerous because it's easy to change or delete a file in the wrong copy of code, potentially losing work. Version control systems solve this problem by managing all versions of the code, but presenting the team with a single version at a time.
+
+7.GitHub:
+   GitHub is a social network for programmers. Git is a distributed software management program created by Linus Torvalds, originally for the Linux Kernel Development. GitHub is a hosted Git repository. Github allows you to take part in collaboration by forking projects, sending and pulling requests, and monitoring development.
+
+....ways to add files in git hub
+   a.directly from github account.
+   b.by using gitbash from desktop by passing commands.
+
+8.Git Clone:
+      The git clone command is used to create a copy of a specific repository or branch within a repository. When you clone a repo you get a copy of the entire history of the repo. 
+        
+The command used for cloning any repository is:git clone <repository-link>
+
+9.Git pull:
+       The term pull is used to receive data from GitHub. It fetches and merges changes from the remote server to your working directory. The git pull command is used to pull a repository.
+
+10.Git add:
+       The git add command is a core part of Git technology. It typically adds one file at a time, but there some options are available that can add more than one file at once.
+
+to add all files the commands are
+-->  $ git add -A  
+-->  $ git add .  
+
+
+
+
+
+Git project:- git bash there are two ways to create
+1.using https url
+2.using ssh url
+
+1.for https:-
+ -Open git bash
+ -write command:-git clone, copy paste the of the code(git hub https link)
+
+
